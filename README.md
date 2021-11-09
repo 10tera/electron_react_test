@@ -1,3 +1,6 @@
+# First
+This is the sample code of the article posted on Qiita.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
